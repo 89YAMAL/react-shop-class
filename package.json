@@ -18,7 +18,7 @@
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://89yamal.github.io/react-shop-func",
+  "homepage": "https://89yamal.github.io/react-shop-class",
   "eslintConfig": {
     "extends": [
       "react-app",
